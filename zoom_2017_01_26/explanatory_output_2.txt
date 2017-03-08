@@ -1,0 +1,51 @@
+Iteration 1
+num: 10
+value: 1
+loser: 1
+
+Iteration 2
+num: 10
+value: 2
+loser: 2
+
+Iteration 3
+num: 10
+value: 8
+loser: 3
+
+Iteration 4
+num: 10
+value: 10
+winner: 1
+
+Iteration 5
+num: 10
+value: 20
+loser: 4
+
+Iteration 6
+num: 10
+value: 41
+loser: 5
+
+Iteration 7
+num: 10
+value: 32
+loser: 6
+
+Iteration 8
+num: 10
+value: 43
+loser: 7
+
+Iteration 9
+num: 10
+value: 30
+loser: 8
+
+Iteration 10
+num: 10
+value: 19
+loser: 9
+
+[1, 2, 8, 10, 20, 41, 32, 43, 30, 19][Finished in 0.4s]
